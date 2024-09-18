@@ -1,0 +1,14 @@
+C:\Users\Daniil\source\repos\CalculatorPro\CalculatorPro\bin\Debug\CalculatorPro.exe.config
+C:\Users\Daniil\source\repos\CalculatorPro\CalculatorPro\bin\Debug\CalculatorPro.exe
+C:\Users\Daniil\source\repos\CalculatorPro\CalculatorPro\bin\Debug\CalculatorPro.pdb
+C:\Users\Daniil\source\repos\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.csproj.AssemblyReference.cache
+C:\Users\Daniil\source\repos\CalculatorPro\CalculatorPro\obj\Debug\MainWindow.baml
+C:\Users\Daniil\source\repos\CalculatorPro\CalculatorPro\obj\Debug\MainWindow.g.cs
+C:\Users\Daniil\source\repos\CalculatorPro\CalculatorPro\obj\Debug\App.g.cs
+C:\Users\Daniil\source\repos\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro_MarkupCompile.cache
+C:\Users\Daniil\source\repos\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.g.resources
+C:\Users\Daniil\source\repos\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.Properties.Resources.resources
+C:\Users\Daniil\source\repos\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.csproj.GenerateResource.cache
+C:\Users\Daniil\source\repos\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.exe
+C:\Users\Daniil\source\repos\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.pdb
